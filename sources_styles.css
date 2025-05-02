@@ -80,11 +80,11 @@
 
 
 body {
-    cursor: url('arrows/cursor01.svg') 0 0, auto;
+    cursor: url('graphics/cursor02.svg') 0 0, auto;
   }
   
   body a {
-    cursor: url('arrows/cursor02.svg') 0 0, pointer;
+    cursor: url('graphics/cursor01.svg') 0 0, pointer;
   }
   
   body::-webkit-scrollbar {
@@ -125,7 +125,7 @@ h3 {
 
 .pdf-icon {
     margin: -11.8px 0 0 0;
-    cursor: url('arrows/cursor02.svg') 0 0, pointer;;
+    cursor: url('graphics/cursor01.svg') 0 0, pointer;;
     background-image: url('graphics/pdf-icon04.svg');
     transition: background-image 0.5s;
     background-size: cover;
